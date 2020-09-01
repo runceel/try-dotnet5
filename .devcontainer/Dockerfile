@@ -1,6 +1,6 @@
 # Update the VARIANT arg in devcontainer.json to pick a .NET Core version: 3.1-bionic, 2.1-bionic 
 ARG VARIANT="5.0"
-FROM mcr.microsoft.com/dotnet/core/sdk:${VARIANT}
+FROM mcr.microsoft.com/dotnet/sdk:${VARIANT}
 
 # Options for setup script
 ARG INSTALL_ZSH="true"
