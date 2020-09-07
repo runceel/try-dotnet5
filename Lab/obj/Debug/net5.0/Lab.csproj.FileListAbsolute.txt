@@ -1,0 +1,14 @@
+/home/vscode/workspace/vscode-remote-try-dotnetcore/Lab/bin/Debug/net5.0/Lab
+/home/vscode/workspace/vscode-remote-try-dotnetcore/Lab/bin/Debug/net5.0/Lab.deps.json
+/home/vscode/workspace/vscode-remote-try-dotnetcore/Lab/bin/Debug/net5.0/Lab.runtimeconfig.json
+/home/vscode/workspace/vscode-remote-try-dotnetcore/Lab/bin/Debug/net5.0/Lab.runtimeconfig.dev.json
+/home/vscode/workspace/vscode-remote-try-dotnetcore/Lab/bin/Debug/net5.0/Lab.dll
+/home/vscode/workspace/vscode-remote-try-dotnetcore/Lab/bin/Debug/net5.0/Lab.pdb
+/home/vscode/workspace/vscode-remote-try-dotnetcore/Lab/obj/Debug/net5.0/Lab.csprojAssemblyReference.cache
+/home/vscode/workspace/vscode-remote-try-dotnetcore/Lab/obj/Debug/net5.0/Lab.GeneratedMSBuildEditorConfig.editorconfig
+/home/vscode/workspace/vscode-remote-try-dotnetcore/Lab/obj/Debug/net5.0/Lab.AssemblyInfoInputs.cache
+/home/vscode/workspace/vscode-remote-try-dotnetcore/Lab/obj/Debug/net5.0/Lab.AssemblyInfo.cs
+/home/vscode/workspace/vscode-remote-try-dotnetcore/Lab/obj/Debug/net5.0/Lab.csproj.CoreCompileInputs.cache
+/home/vscode/workspace/vscode-remote-try-dotnetcore/Lab/obj/Debug/net5.0/Lab.dll
+/home/vscode/workspace/vscode-remote-try-dotnetcore/Lab/obj/Debug/net5.0/Lab.pdb
+/home/vscode/workspace/vscode-remote-try-dotnetcore/Lab/obj/Debug/net5.0/Lab.genruntimeconfig.cache
